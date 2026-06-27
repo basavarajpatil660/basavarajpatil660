@@ -44,9 +44,9 @@ My focus is practical AI integration, multi-agent architecture, and zero-cost de
 | Project | What it does | Stack |
 |--------|-------------|-------|
 | [**Ultimate AI Agent**](https://github.com/basavarajpatil660/Ultimate-Ai) | Serverless multi-agent AI system — Telegram-controlled, image gen, web research, 8 scheduled agents, private KV memory | Cloudflare Workers · GitHub Actions · Node.js |
-| [**EduTrack**](https://github.com/basavarajpatil660/EduTrack) | Role-based college attendance and marks management app — RLS policies, role auth, Supabase Edge Functions | Flutter · Supabase · PostgreSQL |
-| [**Jarvis Daily Briefing**](https://github.com/basavarajpatil660/daily-news-hunter) | Automated AI news briefing — Telegram summaries, full Gmail reports, deployed to GitHub Pages daily | Gemma API · GitHub Actions · Gmail SMTP |
-| [**YouTube Trend Hunter**](https://github.com/basavarajpatil660/youtube-trend-hunter) | Discovers trending Indian YouTube videos and delivers categorized daily reports by email | Node.js · GitHub Actions |
+| [**EduTrack**](https://github.com/basavarajpatil660/edutrack-app) | Role-based college attendance and marks management app — RLS policies, role auth, Supabase Edge Functions | Flutter · Supabase · PostgreSQL |
+| [**Jarvis Daily Briefing**](https://github.com/basavarajpatil660/jarvis-briefing-agent) | Automated AI news briefing — Telegram summaries, full Gmail reports, deployed to GitHub Pages daily | Gemma API · GitHub Actions · Gmail SMTP |
+| [**YouTube Trend Hunter**](https://github.com/basavarajpatil660/yt-trend-scout) | Discovers trending Indian YouTube videos and delivers categorized daily reports by email | Node.js · GitHub Actions |
 
 > Jarvis Daily Briefing and YouTube Trend Hunter are integrated as remote agents inside the Ultimate AI Agent.
 
