@@ -16,10 +16,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=basavarajpatil660&style=flat-square&color=6366f1&label=Profile+Views"/>
-</p>
-
 ---
 
 I build AI automation systems, mobile apps, and serverless pipelines — end-to-end, production-ready, entirely on free infrastructure.
