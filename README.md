@@ -1,39 +1,41 @@
 <h1 align="center">Basavaraj Patil</h1>
 
 <p align="center">
-  CS Student &nbsp;·&nbsp; AI Systems Builder &nbsp;·&nbsp; Serverless Automation
+  CS Diploma Student &nbsp;·&nbsp; Building AI Agents & Automation &nbsp;·&nbsp; Zero-Budget Everything
 </p>
 
 <p align="center">
+  <a href="https://basavaraj.dev">
+    <img src="https://img.shields.io/badge/Portfolio-basavaraj.dev-blue?style=flat-square"/>
+  </a>&nbsp;
   <a href="https://linkedin.com/in/itsbasavarajmp">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>&nbsp;
   <a href="https://instagram.com/basavaraj_nick">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
-  </a>&nbsp;
-  <a href="https://github.com/basavarajpatil660">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-I build AI automation systems, mobile apps, and serverless pipelines — end-to-end, production-ready, entirely on free infrastructure.
+Hey, I'm Basavaraj. I'm a diploma CS student who spends way more time building stuff than the syllabus actually asks for.
 
-My focus is practical AI integration, multi-agent architecture, and zero-cost deployment at production quality. Everything on this profile is shipped and running.
+Self-taught, mostly through docs, YouTube, and just breaking things until they work. Right now I'm deep into AI agents, automation pipelines, and running everything on free-tier infra because that's what I've got and honestly it's a fun constraint to work around.
+
+If you want the full story, projects with screenshots, and a blog where I write about this stuff in more detail, check out **[basavaraj.dev](https://basavaraj.dev)**. This README is just the code side of things.
 
 ---
 
 ## ⚡ Currently Building
 
-**[Ultimate AI Agent](https://github.com/basavarajpatil660/Ultimate-Ai)** — A fully serverless, multi-agent AI system controlled entirely through Telegram.
+**[Ultimate AI Agent](https://github.com/basavarajpatil660/Ultimate-Ai)** — a fully serverless, multi-agent AI system I control entirely through Telegram.
 
-- 🤖 14+ live commands with persistent conversation memory
-- 🖼️ Image generation — Cloudflare FLUX primary, Pollinations AI fallback  
-- 🔍 Web research pipeline via Tavily + Jina
-- 🧠 Private cross-session memory via Cloudflare KV
-- ⚙️ 8 autonomous GitHub Actions agents on scheduled runs
-- 🔗 Extensible — Jarvis Briefing and YouTube Trend Hunter run remotely as sub-agents inside this system
+- 🤖 14+ commands, with the bot actually remembering recent conversation context
+- 🖼️ Image generation — FLUX as primary, Pollinations as fallback so it never just dies
+- 🔍 Pulls in live web research using Tavily + Jina
+- 🧠 Cross-session memory running on Cloudflare KV
+- ⚙️ 8 agents on autopilot via scheduled GitHub Actions
+- 🔗 Two other projects of mine (Jarvis Briefing, YouTube Trend Hunter) plug into this as sub-agents
 
 **Stack:** Cloudflare Workers · GitHub Actions · Node.js · Telegram Bot API · D1 · Cloudflare KV
 
@@ -43,12 +45,12 @@ My focus is practical AI integration, multi-agent architecture, and zero-cost de
 
 | Project | What it does | Stack |
 |--------|-------------|-------|
-| [**Ultimate AI Agent**](https://github.com/basavarajpatil660/Ultimate-Ai) | Serverless multi-agent AI system — Telegram-controlled, image gen, web research, 8 scheduled agents, private KV memory | Cloudflare Workers · GitHub Actions · Node.js |
-| [**EduTrack**](https://github.com/basavarajpatil660/edutrack-app) | Role-based college attendance and marks management app — RLS policies, role auth, Supabase Edge Functions | Flutter · Supabase · PostgreSQL |
-| [**Jarvis Daily Briefing**](https://github.com/basavarajpatil660/jarvis-briefing-agent) | Automated AI news briefing — Telegram summaries, full Gmail reports, deployed to GitHub Pages daily | Gemma API · GitHub Actions · Gmail SMTP |
-| [**YouTube Trend Hunter**](https://github.com/basavarajpatil660/yt-trend-scout) | Discovers trending Indian YouTube videos and delivers categorized daily reports by email | Node.js · GitHub Actions |
+| [**Ultimate AI Agent**](https://github.com/basavarajpatil660/Ultimate-Ai) | Serverless multi-agent system, Telegram-controlled, handles image gen, research, and runs 8 scheduled agents with private memory | Cloudflare Workers · GitHub Actions · Node.js |
+| [**EduTrack**](https://github.com/basavarajpatil660/edutrack-app) | Attendance and marks app for colleges, with proper role-based access for students vs teachers | Flutter · Supabase · PostgreSQL |
+| [**Jarvis Daily Briefing**](https://github.com/basavarajpatil660/jarvis-briefing-agent) | Wakes up every day, reads the AI/tech news, and sends me a summary on Telegram and email | Gemma API · GitHub Actions · Gmail SMTP |
+| [**YouTube Trend Hunter**](https://github.com/basavarajpatil660/yt-trend-scout) | Finds what's trending on Indian YouTube and mails me a daily report | Node.js · GitHub Actions |
 
-> Jarvis Daily Briefing and YouTube Trend Hunter are integrated as remote agents inside the Ultimate AI Agent.
+> Jarvis Daily Briefing and YouTube Trend Hunter don't run standalone anymore — they're wired into Ultimate AI Agent as remote sub-agents.
 
 ---
 
@@ -82,5 +84,5 @@ My focus is practical AI integration, multi-agent architecture, and zero-cost de
 ---
 
 <p align="center">
-  <b>Zero budget. Production-grade.</b>
+  <b>No budget. Still shipping.</b>
 </p>
