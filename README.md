@@ -23,6 +23,19 @@ Self-taught, mostly through docs, YouTube, and breaking things until they work. 
 For the full story, project screenshots, and a blog where I go into more detail, check out **[basavaraj.dev](https://basavaraj.dev)**. This README is just the code side of things.
  
 ---
+
+## 🚀 Featured: The Keyroute Project
+
+**One URL. Every AI provider you use. Running entirely inside your own Supabase project — not ours, not anyone's.**
+
+Self-hostable AI API gateway: add the provider keys you already have (OpenAI, Groq, Gemini, or any OpenAI-compatible endpoint), label them, and get one URL that works with any existing OpenAI SDK. Keys never leave your own Supabase project — no third-party relay, no vendor lock-in, MIT licensed.
+
+[![Repo](https://img.shields.io/badge/Repo-the--keyroute--project-3ECF8E?style=flat-square&logo=supabase&logoColor=white)](https://github.com/basavarajpatil660/the-keyroute-project)
+[![Stars](https://img.shields.io/github/stars/basavarajpatil660/the-keyroute-project?style=flat-square&color=gold)](https://github.com/basavarajpatil660/the-keyroute-project/stargazers)
+
+→ **[github.com/basavarajpatil660/the-keyroute-project](https://github.com/basavarajpatil660/the-keyroute-project)**
+
+---
  
 ## 🧪 Currently Building
  
@@ -40,6 +53,7 @@ I'll drop the repo link here once it's in a state worth sharing.
  
 | Project | What it does | Stack |
 |--------|-------------|-------|
+| [**The Keyroute Project**](https://github.com/basavarajpatil660/the-keyroute-project) | Self-hostable AI API gateway — one URL for every AI provider, keys encrypted and stored entirely inside your own Supabase project | React 19 · TypeScript · Vite · Supabase (Postgres, Vault, Edge Functions) |
 | [**Ultimate AI Agent**](https://github.com/basavarajpatil660/Ultimate-Ai) | Serverless multi-agent system I run entirely through Telegram — handles image gen, web research, and 8 scheduled sub-agents, all on free infra | Cloudflare Workers · GitHub Actions · Node.js |
 | [**EduTrack**](https://github.com/basavarajpatil660/edutrack-app) | Attendance and marks app for colleges, with role-based access for students vs teachers | Flutter · Supabase · PostgreSQL |
 | [**Jarvis Daily Briefing**](https://github.com/basavarajpatil660/jarvis-briefing-agent) | Reads the day's AI/tech news every morning and mails me a summary | Gemma API · GitHub Actions · Gmail SMTP |
@@ -56,7 +70,7 @@ I'll drop the repo link here once it's in a state worth sharing.
 Because that's the budget I have as a student — and figuring out how to make it work anyway has taught me more than paying for shortcuts would.
  
 **What's next?**
-Finishing the personal AI agent above, and polishing a couple of apps already in progress.
+Growing The Keyroute Project (self-hostable AI gateway), finishing the personal AI agent above, and polishing a couple of apps already in progress.
  
 **Where do you write more about this stuff?**
 Over on [basavaraj.dev](https://basavaraj.dev) — project screenshots, deeper breakdowns, and a blog.
@@ -75,6 +89,8 @@ Over on [basavaraj.dev](https://basavaraj.dev) — project screenshots, deeper b
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </p>
 ---
@@ -93,4 +109,3 @@ Over on [basavaraj.dev](https://basavaraj.dev) — project screenshots, deeper b
 <p align="center">
   <b>No budget. Still shipping.</b>
 </p>
- 
