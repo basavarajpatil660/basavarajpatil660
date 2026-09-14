@@ -1,7 +1,7 @@
 <h1 align="center">Basavaraj Patil</h1>
  
 <p align="center">
-  CS Diploma Student &nbsp;·&nbsp; Builder & Automation Tinkerer &nbsp;·&nbsp; Zero-Budget Everything
+  CS Diploma Student &nbsp;·&nbsp; Builder & Automation &nbsp;·&nbsp; Zero-Budget Everything
 </p>
 <p align="center">
   <a href="https://basavaraj.dev">
