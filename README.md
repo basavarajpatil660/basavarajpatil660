@@ -16,11 +16,9 @@
 </p>
 ---
  
-Hey, I'm Basavaraj — a CS diploma student from Karnataka who ends up building way more than the syllabus ever asks for.
+Hey, I'm Basavaraj. I'm a student who enjoys building software and learning new things along the way.
  
-Self-taught, mostly through docs, YouTube, and breaking things until they work. Lately I've been putting together automation tools and small agents that solve an actual problem for me, all running on free-tier infra — because that's what I've got, and honestly it's a fun constraint to build around.
- 
-For the full story, project screenshots, and a blog where I go into more detail, check out **[basavaraj.dev](https://basavaraj.dev)**. This README is just the code side of things.
+For more about me and my work, check out **[basavaraj.dev](https://basavaraj.dev)**.
  
 ---
 
@@ -77,21 +75,7 @@ I'll drop the repo link here once it's in a state worth sharing.
  
 ---
  
-<details>
-<summary><b>❓ A few things people usually ask</b></summary>
-<br>
-**Why free tier only?**
-Because that's the budget I have as a student — and figuring out how to make it work anyway has taught me more than paying for shortcuts would.
- 
-**What's next?**
-Growing The Keyroute Project and the Cloudflare Autonomous Agent, finishing LipiFlow, and polishing a couple of apps already in progress.
- 
-**Where do you write more about this stuff?**
-Over on [basavaraj.dev](https://basavaraj.dev) — project screenshots, deeper breakdowns, and a blog.
- 
-</details>
----
- 
+
 ## 🛠️ Stack
  
 <p align="left">
