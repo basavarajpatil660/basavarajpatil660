@@ -24,6 +24,19 @@ For the full story, project screenshots, and a blog where I go into more detail,
  
 ---
 
+## 🚀 Featured: Cloudflare Autonomous Agent
+
+**Send it a task on Telegram. It plans, calls tools, and gets it done — completely on its own, completely free.**
+
+An open-source, goal-following AI agent built on Cloudflare Workers + Workflows. Give it a task through Telegram and it autonomously breaks the task down and executes it using 53 built-in tools, split across two workers (`agent-router` and `agent-deployer`) — all running on free-tier infra. MIT licensed.
+
+[![Repo](https://img.shields.io/badge/Repo-cloudflare--autonomous--agent-F38020?style=flat-square&logo=cloudflare&logoColor=white)](https://github.com/basavarajpatil660/cloudflare-autonomous-agent)
+[![Stars](https://img.shields.io/github/stars/basavarajpatil660/cloudflare-autonomous-agent?style=flat-square&color=gold)](https://github.com/basavarajpatil660/cloudflare-autonomous-agent/stargazers)
+
+→ **[github.com/basavarajpatil660/cloudflare-autonomous-agent](https://github.com/basavarajpatil660/cloudflare-autonomous-agent)**
+
+---
+
 ## 🚀 Featured: The Keyroute Project
 
 **One URL. Every AI provider you use. Running entirely inside your own Supabase project — not ours, not anyone's.**
@@ -40,9 +53,9 @@ Self-hostable AI API gateway: add the provider keys you already have (OpenAI, Gr
 ## 🧪 Currently Building
  
 <details>
-<summary><b>A personal AI agent — click for details</b></summary>
+<summary><b>LipiFlow — click for details</b></summary>
 <br>
-No name locked in yet, still early days. Same rule as always: completely free, no card required, nothing paid.
+A Kannada/Hindi/English phonetic typing tool inspired by Nudi and Baraha, built as a Windows desktop app with a system-wide tray hook so it works in any focused window — not just its own editor. Free, no card required, nothing paid.
  
 I'll drop the repo link here once it's in a state worth sharing.
  
@@ -53,6 +66,7 @@ I'll drop the repo link here once it's in a state worth sharing.
  
 | Project | What it does | Stack |
 |--------|-------------|-------|
+| [**Cloudflare Autonomous Agent**](https://github.com/basavarajpatil660/cloudflare-autonomous-agent) | Goal-following AI agent — send it a task via Telegram, it plans and executes autonomously across 53 tools using two Cloudflare Workers | Cloudflare Workers · Cloudflare Workflows · Node.js |
 | [**The Keyroute Project**](https://github.com/basavarajpatil660/the-keyroute-project) | Self-hostable AI API gateway — one URL for every AI provider, keys encrypted and stored entirely inside your own Supabase project | React 19 · TypeScript · Vite · Supabase (Postgres, Vault, Edge Functions) |
 | [**Ultimate AI Agent**](https://github.com/basavarajpatil660/Ultimate-Ai) | Serverless multi-agent system I run entirely through Telegram — handles image gen, web research, and 8 scheduled sub-agents, all on free infra | Cloudflare Workers · GitHub Actions · Node.js |
 | [**EduTrack**](https://github.com/basavarajpatil660/edutrack-app) | Attendance and marks app for colleges, with role-based access for students vs teachers | Flutter · Supabase · PostgreSQL |
@@ -70,7 +84,7 @@ I'll drop the repo link here once it's in a state worth sharing.
 Because that's the budget I have as a student — and figuring out how to make it work anyway has taught me more than paying for shortcuts would.
  
 **What's next?**
-Growing The Keyroute Project (self-hostable AI gateway), finishing the personal AI agent above, and polishing a couple of apps already in progress.
+Growing The Keyroute Project and the Cloudflare Autonomous Agent, finishing LipiFlow, and polishing a couple of apps already in progress.
  
 **Where do you write more about this stuff?**
 Over on [basavaraj.dev](https://basavaraj.dev) — project screenshots, deeper breakdowns, and a blog.
